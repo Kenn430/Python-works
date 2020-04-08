@@ -1,3 +1,5 @@
+# Get the fatorial of a given number by recursion
+
 def fac(n):
     if n == 1:
         return 1
