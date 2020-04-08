@@ -1,3 +1,5 @@
+# Get the fatorial of a given number by iteration
+
 def fac(n):
     result = n
     for i in range(1, n):
