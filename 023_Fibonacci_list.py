@@ -1,3 +1,5 @@
+# Imput the position number of a item in Fibonacci sequence, output the value in this position, by list
+
 def fib(position):
     result = [1, 1]
     i = 2
