@@ -1,3 +1,5 @@
+# Imput the position number of a item in Fibonacci sequence, output the value in this position, by recursion
+
 def fib(n):
     if n < 1:
         print('Wrong input!')
