@@ -1,3 +1,5 @@
+# Input the layer number of Hanoi tower, output the solution and with step numbers 
+
 step = 0
 
 def hanoi(n, A, B, C):
