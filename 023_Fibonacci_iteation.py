@@ -1,4 +1,4 @@
-# Imput the position number of a item in Fibonacci sequence, output the value in this position, by iteration
+# Input the position number of a item in Fibonacci sequence, output the value in this position, by iteration
 
 def fib(n):
     n1 = 1
